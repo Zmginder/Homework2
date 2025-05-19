@@ -1,0 +1,15 @@
+---
+title: "Programming in Base R"
+author: "Zach Ginder"
+format: pdf
+editor: visual
+---
+
+## Task 1: Basic Vector practice
+
+### Question 1
+
+```{r}
+pre<-c(130, 128, 116, 124, 133, 134, 118, 126, 114, 127, 141, 138, 128, 140,
+       137, 131, 120, 128, 139, 135)
+```
