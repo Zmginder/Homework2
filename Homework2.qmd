@@ -47,7 +47,7 @@ positive_change
 ### Question 6
 
 ```{r}
-diff_op_positive_change<-diff_op[positive.change]
+diff_op_positive_change<-diff_op[positive_change]
 diff_op_positive_change
 ```
 
